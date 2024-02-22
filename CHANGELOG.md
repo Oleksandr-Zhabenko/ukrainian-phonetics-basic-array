@@ -72,3 +72,8 @@ These changes affect the general results of the package functions work.
 
 * Seventh version revised A. Some code improvements related to inlining. Switched to intermediate-structures instead of mmsyn5 as a dependency. Added README.md, devotion and Github repository with bug-tracker.
 
+## 0.7.1.1 -- 2024-02-22
+
+* Seventh version revised B. Fixed issue with documentation link.
+
+

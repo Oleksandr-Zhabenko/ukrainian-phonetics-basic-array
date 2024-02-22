@@ -63,7 +63,7 @@ type FlowSound = [Sound8]
 
 {-| The function that uses the following correspondence between the previous data type UZPP2 and the 'Sound8'.
 See for more implementation information:
-https://oleksandr-zhabenko.github.io/uk/rhythmicity/PhLADiPreLiO.Eng.21.html#ability-to-use-your-own-durations-of-representations-of-sounds-or-phonetic-phenomena
+<https://oleksandr-zhabenko.github.io/uk/rhythmicity/PhLADiPreLiO.Eng.21.html#ability-to-use-your-own-durations-of-representations-of-sounds-or-phonetic-phenomena>
 
 Starting from the version 0.6.0.0:
 
