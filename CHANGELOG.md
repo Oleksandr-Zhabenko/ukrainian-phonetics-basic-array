@@ -76,4 +76,7 @@ These changes affect the general results of the package functions work.
 
 * Seventh version revised B. Fixed issue with documentation link.
 
+## 0.10.0.0 -- 2024-04-07
+
+* Tenth version. Made a window for possible new subtle modifications to the versions before 0.10.0.0. Switched from Double to Word8 in durations module. Therefore, changed the name to Phladiprelio.Ukrainian.SyllableWord8. 
 
